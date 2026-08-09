@@ -4,11 +4,11 @@ A simple and responsive **Student Registration Form** created using HTML, CSS, a
 
 ## 🚀 Live Demo
 
-🔗 
+🔗  https://susmithamariyappillai.github.io/student-registration/
 
 ## 📂 GitHub Repository
 
-🔗 
+🔗 https://github.com/susmithamariyappillai
 
 ## ✨ Features
 
